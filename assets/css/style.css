@@ -94,33 +94,39 @@ p {
     color: #ffffff;
 }
 
+/* this styles the headers of the aside elements of the webpage */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* this styles the headers of the aside elements of the webpage */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* this styles the headers of the aside elements of the webpage */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* this styles the images of the aside elements of the webpage */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* this styles the images of the aside elements of the webpage */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* this styles the images of the aside elements of the webpage */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
