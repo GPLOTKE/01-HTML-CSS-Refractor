@@ -37,7 +37,7 @@ body {
     font-size: 20px;
 }
 
-
+/* this displays the listed header text inline */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -52,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* this is for the background image of the webpage */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,11 +62,13 @@ p {
     background-position: center;
 }
 
+/* this makes the SEO and SMM images appear on the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* this makes the ORM image appear on the right */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -190,6 +193,7 @@ p {
     font-size: 36px;
 }
 
+/* this styles the footer of the webpage */
 .footer {
     padding: 30px;
     clear: both;
