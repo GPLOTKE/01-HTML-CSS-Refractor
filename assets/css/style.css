@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* This is the background color of the  webpage */
 body {
     background-color: #d9dcd6;
 }
 
+/* This styles the header of the webpage */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/* This styles the letters HOR & N in the header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* This styles the letters SEO in the header */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* This styles the links in the header */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
