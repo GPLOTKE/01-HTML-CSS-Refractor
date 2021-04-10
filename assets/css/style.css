@@ -79,6 +79,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* this styles the SEO section of the main part of the webpage */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -88,6 +90,7 @@ p {
     color: #ffffff;
 }
 
+/* this styles the ORM section of the main part of the webpage */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -97,6 +100,7 @@ p {
     color: #ffffff;
 }
 
+/* this styles the SMM section of the main part of the webpage */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -106,28 +110,34 @@ p {
     color: #ffffff;
 }
 
+/* this styles the SEO image of the main part of the webpage */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/* this styles the ORM image of the main part of the webpage */
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/* this styles the SSM image of the main part of the webpage */
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* this styles the SEO heading of the main part of the webpage */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* this styles the ORM heading of the main part of the webpage */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* this styles the Smm heading of the main part of the webpage */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
