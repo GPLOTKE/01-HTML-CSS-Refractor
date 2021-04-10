@@ -79,60 +79,6 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
-/* this styles the sections aside from the main section of the webpage */
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* this styles the headers of the aside elements of the webpage */
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* this styles the headers of the aside elements of the webpage */
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* this styles the headers of the aside elements of the webpage */
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* this styles the images of the aside elements of the webpage */
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* this styles the images of the aside elements of the webpage */
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* this styles the images of the aside elements of the webpage */
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -185,6 +131,59 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* this styles the sections aside from the main section of the webpage */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* this styles the headers of the aside elements of the webpage */
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* this styles the headers of the aside elements of the webpage */
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* this styles the headers of the aside elements of the webpage */
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* this styles the images of the aside elements of the webpage */
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* this styles the images of the aside elements of the webpage */
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* this styles the images of the aside elements of the webpage */
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 /* this styles the footer of the webpage */
